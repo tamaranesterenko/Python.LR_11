@@ -3,6 +3,7 @@ def countFood():
     b = int(input())
     print("Всего", a+b, "шт.")
 
+    
 print("Сколько бананов и ананасов для обязьян?")
 countFood()
 
