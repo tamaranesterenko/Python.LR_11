@@ -55,7 +55,7 @@ def display_workers(staff):
         print(line)
 
     else:
-        print("Список работников пуст.")
+        print("Список пуст.")
 
 
 def select_workers(staff):
